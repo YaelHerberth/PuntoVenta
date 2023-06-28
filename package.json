@@ -1,0 +1,14 @@
+{
+  "name": "puntoventa_papeleria",
+  "version": "1.0.0",
+  "description": "Punto de Venta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yael Sanchez Herbert",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
